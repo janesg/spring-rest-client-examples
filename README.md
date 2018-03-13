@@ -1,5 +1,8 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples)
+[![codecov](https://codecov.io/gh/janesg/spring-rest-client-examples/branch/master/graph/badge.svg)](https://codecov.io/gh/janesg/spring-rest-client-examples)
+
 # Spring Rest Client Examples
+
+[![CircleCI](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples)
 
 This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
 
